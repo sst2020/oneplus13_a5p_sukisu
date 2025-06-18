@@ -50,8 +50,8 @@ jobs:
           
       - name: Configure Git
         run: |
-         git config --global user.name "Futaba"
-         git config --global user.email "3199167602@qq.com"
+         git config --global user.name "sst2020"
+         git config --global user.email "3362402439@qq.com"
 
       - name: Install dependencies
         run: |
